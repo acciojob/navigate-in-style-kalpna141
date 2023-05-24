@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+.container{
+	display:visible;
+	background:rgb(211,211,211);
+	padding:10px;
+}
 #navv{
 	background:rgb(211, 211, 211);
 	padding:10px;
