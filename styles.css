@@ -1,8 +1,11 @@
 /*  your css code here. If applicable */
 #navv{
-	background:#D3D3D3;
+	background:rgb(211, 211, 211);
 	padding:10px;
 	
+}
+ul{
+	display:flex;
 }
 li{
 	display:inline;
